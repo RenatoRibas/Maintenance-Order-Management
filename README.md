@@ -1,19 +1,5 @@
 <h1 align="center" style="font-size: 10px;">📊 Gerenciamento de Ordens de Manutenção</h1>
 
-<a href="https://pandas.pydata.org/" target="_blank">
-    <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" target="_blank">
-</a>
-<a href="https://numpy.org/" target="_blank">
-    <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" target="_blank">
-</a>
-<a href="https://scikit-learn.org/" target="_blank">
-    <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" target="_blank">
-</a>
-<a href="https://seaborn.pydata.org/" target="_blank">
-    <img src="https://img.shields.io/badge/seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" target="_blank">
-</a>
-<a href="https://matplotlib.org/" target="_blank">
-    <img src="https://img.shields.io/badge/matplotlib-013243?style=for-the-badge&logo=python&logoColor=white" target="_blank">
 </a>
 <a href="https://spring.io/projects/spring-boot" target="_blank">
     <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white">
